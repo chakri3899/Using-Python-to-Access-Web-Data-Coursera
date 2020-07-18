@@ -1,3 +1,7 @@
+#Problem: Following Links in Python
+#visit this url for the problem - https://www.py4e.com/tools/python-data/?PHPSESSID=207feca20cd7793ea3313f498a2e6724
+
+
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 
